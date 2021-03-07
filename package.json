@@ -1,0 +1,15 @@
+{
+  "name": "08-2D-Pacman",
+  "version": "1.0.0",
+  "description": "You are to simulate a property boom with this mini-project. Imagine a small town is being represented by a 8x8 array, with each cell representing a house.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
